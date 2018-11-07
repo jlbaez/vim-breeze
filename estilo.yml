@@ -1,0 +1,10 @@
+name: 'vim-breeze'
+version: '1.0.0'
+license: 'MIT'
+author: 'Jose Baez'
+url: 'https://github.com/jlbaez/vim-breeze'
+description: 'Port of KDE breeze theme for Vim'
+colorschemes:
+  - name: vim-breeze
+    background: 'dark'
+    palette: vim-breeze
